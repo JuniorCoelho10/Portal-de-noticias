@@ -61,7 +61,7 @@ section header {
 
 #weekly {
   
-  
+
 
   &>div {
     grid-template-columns: repeat(4, 292px);
@@ -82,8 +82,7 @@ section header {
     p {
       margin-top:8px;
       font: var(--heading2);
-      
-      
+       
     }
   }
 }
